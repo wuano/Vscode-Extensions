@@ -17,11 +17,11 @@
       "theme": "light"
   },
   // 发布者
-  "publisher": "suwanqing",
+  "publisher": "lasazsm",
   //储藏库
   "repository": {
       "type": "git",
-      "url": "https://github.com/sususususususs/girls-theme.git"
+      "url": "https://github.com/wuano/Vscode-Extensions.git"
   },
   //一组关键字，查找扩展名更加容易，目前最多五个
   "keywords": ["theme"],
