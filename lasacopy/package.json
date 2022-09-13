@@ -1,0 +1,38 @@
+{
+  "name": "lasacopy",
+  "displayName": "copy_github_light_theme",
+  "description": "lasacopy",
+  "version": "0.0.1",
+  "publisher": "lasa",
+	"license": "MIT",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lasa_github_light_theme原版1",
+        "uiTheme": "vs",
+        "path": "./themes/lasa_github_light_theme-color-theme(原版1).json"
+      },
+      {
+        "label": "lasa_github_light_theme原版2",
+        "uiTheme": "vs",
+        "path": "./themes/lasa_github_light_theme-color-theme(原版2).json"
+      },
+      {
+        "label": "lasa_github_light_themelove",
+        "uiTheme": "vs",
+        "path": "./themes/lasa_github_light_theme-color-theme(love).json"
+      },
+      {
+        "label": "lasa_github_light_theme预留",
+        "uiTheme": "vs",
+        "path": "./themes/lasa_github_light_theme-color-theme(预留).json"
+      }
+    ]
+  }
+}
