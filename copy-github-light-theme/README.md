@@ -1,4 +1,4 @@
-# lasacopy README
+# copy-github-light-theme README
 
 ## Working with Markdown
 

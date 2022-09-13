@@ -1,7 +1,4 @@
 // MIT License
-// MIT License
-// MIT License
-// MIT License
 //
 // Copyright 2020 Ling CHU <meetchuling@outlook.com>
 //
@@ -22,6 +19,9 @@
 // LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 // DEALINGS IN THE SOFTWARE.
+
+// ! 已将所有#f0f0f0 改为 #dbdbdb
+
 {
 	"name": "Github Light Theme",
 	"type": "light",
@@ -29,37 +29,36 @@
 	  // base color
 	  "focusBorder": "#f0f0f000",
 	  "foreground": "#000000",
-	  "editor.background": "#f0f0f0",
+	  "editor.background": "#dbdbdb",
 	  "editor.foreground": "#000000",
-	  "scrollbar.shadow": "#898999",
-	  
+	  "scrollbar.shadow": "#dbdbdb",
 	  // activity bar
-	  "activityBar.border": "#f0f0f0",
-	  "activityBar.background": "#f0f0f0",
+	  "activityBar.border": "#dbdbdb",
+	  "activityBar.background": "#dbdbdb",
 	  "activityBar.foreground": "#000000",
 	  "activityBarBadge.background": "#d73a49",
 	  // status bar
-	  "statusBar.border": "#f0f0f0",
-	  "statusBar.background": "#f0f0f0",
+	  "statusBar.border": "#dbdbdb",
+	  "statusBar.background": "#dbdbdb",
 	  "statusBar.foreground": "#000000",
-	  "statusBar.noFolderBackground": "#f0f0f0",
+	  "statusBar.noFolderBackground": "#dbdbdb",
 	  "statusBar.noFolderForeground": "#000000",
-	  "statusBar.debuggingBackground": "#f0f0f0",
+	  "statusBar.debuggingBackground": "#dbdbdb",
 	  "statusBar.debuggingForeground": "#000000",
 	  // editor groups and tabs
-	  "editorGroup.border": "#f0f0f0",
-	  "editorGroupHeader.tabsBackground": "#f0f0f0",
-	  "editorGroupHeader.noTabsBackground": "#f0f0f0",
-	  "editorGroupHeader.tabsBorder": "#f0f0f0",
-	  "tab.activeBackground": "#f0f0f0",
-	  "tab.inactiveBackground": "#f0f0f0",
-	  "tab.border": "#f0f0f0",
+	  "editorGroup.border": "#dbdbdb",
+	  "editorGroupHeader.tabsBackground": "#dbdbdb",
+	  "editorGroupHeader.noTabsBackground": "#dbdbdb",
+	  "editorGroupHeader.tabsBorder": "#dbdbdb",
+	  "tab.activeBackground": "#dbdbdb",
+	  "tab.inactiveBackground": "#dbdbdb",
+	  "tab.border": "#dbdbdb",
 	  "tab.activeBorder": "#d73a49",
 	  // side bars
-	  "sideBar.border": "#f0f0f0",
-	  "sideBar.background": "#f0f0f0",
+	  "sideBar.border": "#dbdbdb",
+	  "sideBar.background": "#dbdbdb",
 	  "sideBar.foreground": "#000000",
-	  "sideBarSectionHeader.background": "#f0f0f0",
+	  "sideBarSectionHeader.background": "#dbdbdb",
 	  // list
 	  "list.highlightForeground": "#d73a49",
 	  "list.activeSelectionBackground": "#dfdfdf",
@@ -78,29 +77,29 @@
 	  "editor.selectionBackground": "#fed442",
 	  // input
 	  "input.border": "#b2b2b2",
-	  "input.background": "#f0f0f0",
+	  "input.background": "#dbdbdb",
 	  "inputOption.activeBorder": "#000000",
 	  "inputOption.activeForeground": "#000000",
 	  "dropdown.border": "#b2b2b2",
-	  "dropdown.background": "#f0f0f0",
-	  "dropdown.listBackground": "#f0f0f0",
+	  "dropdown.background": "#dbdbdb",
+	  "dropdown.listBackground": "#dbdbdb",
 	  // notification
-	  "notificationCenter.border": "#f0f0f0",
-	  "notificationCenterHeader.background": "#f0f0f0",
-	  "notificationToast.border": "#f0f0f0",
-	  "notifications.background": "#f0f0f0",
-	  "notifications.border": "#f0f0f0",
+	  "notificationCenter.border": "#dbdbdb",
+	  "notificationCenterHeader.background": "#dbdbdb",
+	  "notificationToast.border": "#dbdbdb",
+	  "notifications.background": "#dbdbdb",
+	  "notifications.border": "#dbdbdb",
 	  // button
 	  "button.background": "#d73a49",
-	  "button.foreground": "#f0f0f0",
+	  "button.foreground": "#dbdbdb",
 	  // titlebar
-	  "titleBar.border": "#f0f0f0",
-	  "titleBar.activeBackground": "#f0f0f0",
+	  "titleBar.border": "#dbdbdb",
+	  "titleBar.activeBackground": "#dbdbdb",
 	  "titleBar.activeForeground": "#000000",
-	  "titleBar.inactiveBackground": "#f0f0f0",
+	  "titleBar.inactiveBackground": "#dbdbdb",
 	  "titleBar.inactiveForeground": "#000000",
 	  // editor widget
-	  "editorWidget.background": "#f0f0f0",
+	  "editorWidget.background": "#dbdbdb",
 	  "editorWidget.border": "#000000",
 	  "editorSuggestWidget.highlightForeground": "#d73a49",
 	  "editorSuggestWidget.selectedBackground": "#e1e1e1",

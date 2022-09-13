@@ -1,0 +1,77 @@
+{
+  //扩展名-应该全部为小写字母，没有空格
+  "name": "copy-github-light-theme",
+  //扩展在市场中显示的名称
+  "displayName": "copy-github-light-theme",
+  //扩展的说明
+  "description": "copy-github-light-theme",
+  //版本号
+  "version": "0.0.1",
+  //插件在市场中显示的icon图标
+  "icon": "./icon.png",
+  //扩展在网页版的vscode微软开发市场中的banner设置
+  "galleryBanner": {
+    //banner图背景颜色
+      "color": "#c7ADFB",
+       // 主图：light或dark
+      "theme": "light"
+  },
+  // 发布者
+  "publisher": "suwanqing",
+  //储藏库
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sususususususs/girls-theme.git"
+  },
+  //一组关键字，查找扩展名更加容易，目前最多五个
+  "keywords": ["theme"],
+  //插件最低支持的vscode版本
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  //插件应用市场分类
+  "categories": [
+    "Themes"
+  ],
+  //开发这信息
+  "author": {
+      "name": "lasazsm",
+      "email": "lasazsm@126.com",
+      // "url": "https://github.com/sususususususs"
+  },
+  //贡献点(最重要的就是contributes)
+  "contributes": {
+    "themes": [
+			{
+				"label": "Github Light Theme",
+				"uiTheme": "vs",
+				"path": "./themes/lasa-color-theme(原版1).json"
+			},
+			{
+				"label": "Github Light Theme - Gray",
+				"uiTheme": "vs",
+				"path": "./themes/lasa-color-theme(原版2).json"
+			},
+      {
+				"label": "Github Light Theme - Gray - love",
+				"uiTheme": "vs",
+				"path": "./themes/lasa-color-theme(修改版) love.json"
+			}
+		]
+  },
+  //bugs
+  // "bugs": {
+  //     "url": "https://github.com/sususususususs/girls-theme/issues"
+  // },
+  //主页
+  // "homepage": "https://github.com/sususususususs/girls-theme/readme",
+  //协议
+  "license": "LASA"
+
+  
+
+
+  
+  
+  
+}
